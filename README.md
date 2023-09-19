@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Nisanth from Chennai, India.
-I code to live.
 
 I'm a < Mern-Stack-Developer />. I love creating web applications using MERN technologies. So far I have worked on various technologies and array of clients.
 
